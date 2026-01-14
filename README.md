@@ -29,7 +29,7 @@ Desafío https://magnar-ai.notion.site/Desaf-o-de-Scraping-2e6c4a01cc3c808caea0d
 
 1. Clonar el repositorio:
 ```bash
-git clone <repository-url>
+git clone https://github.com/MagdaIG/scraper-challenge
 cd scraper-challenge
 ```
 
